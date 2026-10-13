@@ -108,7 +108,7 @@ global-esg-engineering-dashboard/
 |
 +-- README.md
 +-- The_Business_Insights_Report.pdf
-+-- Engineering_esg_ board_report.pbix
++-- Engineering_esg_board_report.pbix
 |
 +-- datasets/
 |   +-- company_esg_financial_dataset.csv
