@@ -107,7 +107,7 @@ Star schema with 3 fact tables, 6 dimension tables, and 9 relationships.
 global-esg-engineering-dashboard/
 |
 +-- README.md
-+-- The_Business_Insights_Report.pdf
++-- Business_Insights_Report.pdf
 +-- Power_BI_Project.pbix
 |
 +-- datasets/
